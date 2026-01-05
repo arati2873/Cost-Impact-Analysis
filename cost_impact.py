@@ -35,7 +35,7 @@ if user_code != ACCESS_CODE:
 with st.expander("❓ How to Use This Tool (Click to Expand)"):
     st.markdown("""
     ### 📘 Required Inputs
-    This tool requires 6 CSV files:
+    This tool requires 3 CSV files:
     1. **cost_file.csv** – Cost data by SKU
     2. **sales_ytd.csv** – Recent sales data (e.g., last 6 months or 1 year)
     3. **product_classification.csv** – Classification mapping (Family, Group, etc.)
