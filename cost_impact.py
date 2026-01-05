@@ -50,9 +50,9 @@ with st.expander("❓ How to Use This Tool (Click to Expand)"):
 
     ---
 
-    📂 You can [download sample input files here](https://github.com/arati2873/Pricing-Tool/tree/main/Sample%20data)
+    📂 You can [download sample input files here](https://github.com/arati2873/Cost-Impact-Analysis)
 
-    📄 Full user guide available in the [README](https://github.com/arati2873/Pricing-Tool/blob/main/README.md)
+    📄 Full user guide available in the [README](https://github.com/arati2873/Cost-Impact-Analysis/blob/main/README.md.txt)
     """)
 
 
